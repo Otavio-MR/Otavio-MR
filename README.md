@@ -11,7 +11,7 @@ Olá, meu nome é Otavio, tenho 19 anos e estou atualmente cursando ADS no IFPR,
 
 ## 🌱 Em aprendizado
 
-- 💾 **Programação:** Python, Java, C e Pseudocódigo.
+- 💾 **Programação:** Python, Java, SGBD (SQL) e Pseudocódigo.
 - 🌐 **Colaboração:** Projetos em equipe no GitHub, utilizando novas linguagens e lógicas criativas.
 
 ## 🧬 Próximos Passos
