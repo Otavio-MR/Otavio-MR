@@ -5,7 +5,6 @@ Olá, meu nome é Otavio, tenho 19 anos e estou atualmente cursando ADS no IFPR,
 ## Sobre Mim 📖
 
 - 💻 Atualmente estou no curso de Analíse e Desenvolvimento de Sistemas no IFPR.
-- 🕹️ Desenvolvendo meu primeiro jogo (simples).
 - ⁉️**Curiosidades:** Gosto muita da Linguagem JAVA e a criação de designs (logos, slides, etc..) no Canva.
 - 📚Gosto de aprender sobre JAVA, outras linguagens de programação, IA e Desenvolvimento Front-End.
 - 📃 Possuo um certificado em ADS pela Unifil, no curso **Pensamento Computacional**, onde aprendi o básico de HTML, CSS e JavaScript.
